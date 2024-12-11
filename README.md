@@ -1,6 +1,6 @@
  Set Up a Virtualized Environment Using Docker
  -
- In this project we'll create a Docker container using a base image (Ubuntu) and (python) and install necessary software (Flask) to run a simple Python (Hello world) application. This demonstrates how Docker containers are used to encapsulate software environments and managing virtualized applications.
+ In this project we'll create a Docker container using a base image (Ubuntu) and (python) and install necessary software  to run a simple Python (Hello world) application. This demonstrates how Docker containers are used to encapsulate software environments and managing virtualized applications.
 
  1> To install "DOCKER DESKTOP" from docker official website an download the installer for windows.
  
