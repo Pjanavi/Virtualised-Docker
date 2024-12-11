@@ -59,6 +59,9 @@ C:\Users\janav\flask-docker-app>docker init
 
 ? What port do you want your app to listen on? (8000)
 
+
+check your flask-docker-app directory, it should include app.py, requirements.txt, dockerfile. .gitignore, READMe, compose.yaml
+
 for running the application on a virtualized environment use the following command 
 --
 
@@ -72,7 +75,7 @@ Output
 -- 
 
     {
-  "message": "Hello World" 
-     }
+         "message": "Hello World" 
+          }
 
      
